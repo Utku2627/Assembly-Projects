@@ -32,5 +32,6 @@ Some emu8086 projects written with Assembly
 
 **#Project_7**
 
-![image](https://github.com/user-attachments/assets/6bca4598-8c44-452c-9544-117391c5c82d)
+![image](https://github.com/user-attachments/assets/cc35f645-a4fe-4896-9e09-45a8f7317482)
+
 
